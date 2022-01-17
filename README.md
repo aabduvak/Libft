@@ -35,6 +35,9 @@
 **NOTE:** To be successful with moulinette on this project I had to put all the files in the same directory.
 I have just put them in folders and modified the Makefile to have a better organized repository.
 
+#### My grade
+<img src="./images/grade.png" width="150" height="150"/>
+
 ## List of functions:
 
 ### Functions from `<ctype.h>` library
@@ -88,15 +91,15 @@ I have just put them in folders and modified the Makefile to have a better organ
 
 ### Linked list functions (bonus)
 
-* [`ft_lstnew`](ft_lstnew.c)				- create new list.
-* [`ft_lstsize`](ft_lstsize.c)			- count elements of a list.
-* [`ft_lstlast`](ft_lstlast.c)			- find last element of list.
-* [`ft_lstadd_back`](ft_lstadd_back.c)	- add new element at end of list.
-* [`ft_lstadd_front`](ft_lstadd_front.c)	- add new element at beginning of list.
-* [`ft_lstdelone`](ft_lstdelone.c)		- delete element from list.
-* [`ft_lstclear`](ft_lstclear.c)			- delete sequence of elements of list from a starting point.
-* [`ft_lstiter`](ft_lstiter.c)			- apply function to content of all list's elements.
-* [`ft_lstmap`](ft_lstmap.c)				- apply function to content of all list's elements into new list.
+* [`ft_lstnew`](ft_lstnew_bonus.c)				- create new list.
+* [`ft_lstsize`](ft_lstsize_bonus.c)			- count elements of a list.
+* [`ft_lstlast`](ft_lstlast_bonus.c)			- find last element of list.
+* [`ft_lstadd_back`](ft_lstadd_back_bonus.c)	- add new element at end of list.
+* [`ft_lstadd_front`](ft_lstadd_front_bonus.c)	- add new element at beginning of list.
+* [`ft_lstdelone`](ft_lstdelone_bonus.c)		- delete element from list.
+* [`ft_lstclear`](ft_lstclear_bonus.c)			- delete sequence of elements of list from a starting point.
+* [`ft_lstiter`](ft_lstiter_bonus.c)			- apply function to content of all list's elements.
+* [`ft_lstmap`](ft_lstmap_bonus.c)				- apply function to content of all list's elements into new list.
 
 
 ## 🛠️ Usage
