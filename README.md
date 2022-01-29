@@ -83,7 +83,7 @@ I have just put them in folders and modified the Makefile to have a better organ
 * [`ft_strjoin`](ft_strjoin.c)			- concatenate two strings into a new string (with malloc).
 * [`ft_split`](ft_split.c)				- split string, with specified character as delimiter, into an array of strings.
 * [`ft_strmapi`](ft_strmapi.c)			- create new string from modifying string with specified function.
-* [`ft_striteri`](ft_striteri.c)			- 
+* [`ft_striteri`](ft_striteri.c)			- modify string with specified function.
 * [`ft_putchar_fd`](ft_putchar_fd.c)		- output a character to given file.
 * [`ft_putstr_fd`](ft_putstr_fd.c)		- output string to given file.
 * [`ft_putendl_fd`](ft_putendl_fd.c)		- output string to given file with newline.
